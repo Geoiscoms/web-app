@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.22.242.174:8081/repository/gtbankbtsreleases/</url>
+	      <url>http://:18.191.210.152:8081/repository/gtbankbtsreleases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
